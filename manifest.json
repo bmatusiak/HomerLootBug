@@ -1,0 +1,12 @@
+{
+  "name": "HomerLootBug",
+  "author":"bmatusiak",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/bmatusiak/HomerLootBug",
+  "description": "Loot Bug audio mod, for friends",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "no00ob-LCSoundTool-1.3.2",
+    "Clementinise-CustomSounds-2.1.2"
+  ]
+}
