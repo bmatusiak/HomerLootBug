@@ -1,5 +1,5 @@
 Spore Lizard audio mod, for friends
 
-* voice by: pikachu
-* art by: lethal-company.fandom.com
+* voice by: homer
+* art by: shrooomy ~ pixabay.com
 * worker: just-ice
